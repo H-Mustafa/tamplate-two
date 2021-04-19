@@ -1,2 +1,0 @@
-# tamplate-two
-tamplate-two
